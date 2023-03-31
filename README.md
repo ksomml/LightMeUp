@@ -7,7 +7,7 @@ Small unity project to present a concept of a virtual reality light controller a
 
 ## How to:
 
-![Instructions](/uploads/e1c223d4d9b0516ecbc1c677d2a97ab4/Instructions.png){width=70% height=70%}
+![Instructions](/Assets/MyAssets/Textures/Instructions.png)
 
 ## Project Unity Version: 2021.3.15f1
 
@@ -16,4 +16,3 @@ https://unity.com/releases/editor/whats-new/2021.3.15
 ## Author
 
 [ksomml](https://github.com/ksomml)
-test
